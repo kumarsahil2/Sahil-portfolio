@@ -33,7 +33,7 @@ const Education = () => {
             </h3>
             <p className="text-lg mt-2">
               <a
-                href="https://www.iibm.in/"
+                href="https://www.gayacollege.ac.in/"
                 className="text-blue-400 hover:underline"
                 target="_blank"
                 rel="noopener noreferrer"
